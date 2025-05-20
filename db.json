@@ -4,22 +4,22 @@
       "id": 1,
       "title": "React for Beginners",
       "slug": "react-for-beginners",
-      "instructor": "John Doe",
+      "instructor": "Muhammad Lawan",
       "price": 25000,
       "duration": "6 weeks",
       "category": "Frontend",
-      "image": "/images/react-course.jpg",
+      "image": "https://m.media-amazon.com/images/I/6132FVQ5ZQL._SL1499_.jpg ",
       "description": "Learn React from scratch with hands-on projects."
     },
     {
       "id": 2,
       "title": "Node.js Essentials",
       "slug": "nodejs-essentials",
-      "instructor": "Jane Smith",
+      "instructor": "Umar Bello",
       "price": 30000,
       "duration": "4 weeks",
       "category": "Backend",
-      "image": "/images/node-course.jpg",
+      "image": "https://m.media-amazon.com/images/I/61B9HkSrKXL._SL1499_.jpg",
       "description": "Master the fundamentals of Node.js and build APIs."
     },
     {
@@ -30,8 +30,41 @@
       "price": 60000,
       "duration": "12 weeks",
       "category": "Fullstack",
-      "image": "/images/fullstack-course.jpg",
+      "image": "https://m.media-amazon.com/images/I/71UOAUtWeBL._SL1500_.jpg",
       "description": "Become a fullstack developer using MERN stack."
+    },
+    {
+      "id": 4,
+      "title": "Backend Developer in 30 days",
+      "slug": "Backend-web-development",
+      "instructor": "Lawan Mubarak",
+      "price": 40000,
+      "duration": "8 weeks",
+      "category": "Backend",
+      "image": "https://m.media-amazon.com/images/I/81ft++Bi3wL._SL1500_.jpg",
+      "description": "Become a backend developer using MERN stack."
+    },
+    {
+      "id": 5,
+      "title": "SQL QuickStart Guide",
+      "slug": "Database-Management",
+      "instructor": "Ismail Abubakar",
+      "price": 80000,
+      "duration": "15 weeks",
+      "category": "Database",
+      "image": "https://m.media-amazon.com/images/I/61wEaFn6TmL._SL1360_.jpg",
+      "description": "The Simplified Beginner's Guide to Managing, Analyzing, and Manipulating Data With SQL."
+    },
+    {
+      "id": 6,
+      "title": "Database Internals",
+      "slug": "Database-Management",
+      "instructor": "Mustafa Tsafe",
+      "price": 40000,
+      "duration": "8 weeks",
+      "category": "Database",
+      "image": "https://m.media-amazon.com/images/I/91UYIt74czL._SL1500_.jpg",
+      "description": "A Deep Dive into How Distributed Data Systems Work."
     }
   ]
 }
