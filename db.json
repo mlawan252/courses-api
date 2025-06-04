@@ -66,5 +66,11 @@
       "image": "https://m.media-amazon.com/images/I/91UYIt74czL._SL1500_.jpg",
       "description": "A Deep Dive into How Distributed Data Systems Work."
     }
+  ],
+  "users":[
+    {
+      "id":"SP00667",
+      "surname":"lawan"
+    }
   ]
 }
